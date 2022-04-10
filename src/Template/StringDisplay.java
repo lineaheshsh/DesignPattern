@@ -1,7 +1,5 @@
 package Template;
 
-import java.nio.charset.StandardCharsets;
-
 public class StringDisplay extends AbstractDisplay{
     private String string;
     private int width;
